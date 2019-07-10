@@ -16,7 +16,7 @@ Through this course, I hope to learn different data visualization techniques and
 
 ### Few thoughts:
 
-The bar chart was a great choice in the original visualization posted in the article. I chose to maintain the same chart type for my redesign. With a few additional changes, I believe my proposed redesign is/has:
+The bar chart was an appropriate and effective choice in the original visualization posted in the article. I chose to maintain the same chart type for my redesign. With a few additional changes, I believe my proposed redesign is/has:
 - Easier to read and understand because of the clear segmentation between candidates and political parties
 - A more informative title
 - Consistent typograhphy in labels

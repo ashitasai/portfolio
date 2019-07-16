@@ -29,3 +29,15 @@ However, in both the original and my proposed redesign, it would have been more 
 ![Screenshot](c2.png)
 
 **Source:** "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)
+
+### Few thoughts: 
+
+The map was an appropriate and effective choice in the original visualization posted in the article. I chose to build off of this concept by redesigning the map and a few other changes including: 
+- Equal sized squares for representing each state 
+- A color gradient to represent the volunteer rate
+- Consistent usage of state abbreviations as labels
+
+As a result of these changes, I believe my proposed redesign: 
+- improves upon the "truthfulness" scale - it is more accurate, valid, and reliable and does not misrepresent the underlying data
+- effortless to understand
+- simple yet aesthetically pleasing

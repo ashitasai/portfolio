@@ -23,3 +23,4 @@ The bar chart was an appropriate and effective choice in the original visualizat
 
 However, in both the original and my proposed redesign, it would have been more effective to display the percentage of likes out of the total number of posts made by each candidate / political party (although this would depend on what data is available). 
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKT6CU8Ct28WjPYlpV8xloRRpTHor2A3U4_RHA71t5PXAcM94P4KM8qo7GSmP7bA/pubhtml?gid=2104246979&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

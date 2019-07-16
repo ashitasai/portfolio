@@ -26,9 +26,14 @@ However, in both the original and my proposed redesign, it would have been more 
 
 ## Week 2
 ### Critique by redesign - Data visualization from Google Sheets
+
+**Note:** The dataset used to create the visualization in the original articles showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
+
 ![Screenshot](c2.png)
 
-**Source:** "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)
+**Sources:** 
+1) "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)
+2) "State Rankings by Volunteer Rate" Corporation for National and Community Service, [https://www.nationalservice.gov/serve/via/rankings](https://www.nationalservice.gov/serve/via/rankings)
 
 ### Few thoughts: 
 

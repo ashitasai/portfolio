@@ -23,5 +23,3 @@ The bar chart was an appropriate and effective choice in the original visualizat
 
 However, in both the original and my proposed redesign, it would have been more effective to display the percentage of likes out of the total number of posts made by each candidate / political party (although this would depend on what data is available). 
 
-## OIG Report: Redesign from the perspective of a data journalist
-<iframe src="https://e.infogram.com/1f356cc1-77ae-4694-b392-2814d75850b3?src=embed" title="General Audience" width="1500" height="844" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1f356cc1-77ae-4694-b392-2814d75850b3" style="color:#989898!important;text-decoration:none!important;" target="_blank">General Audience</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>

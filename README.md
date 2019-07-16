@@ -22,6 +22,3 @@ The bar chart was an appropriate and effective choice in the original visualizat
 - Consistent typograhphy in labels
 
 However, in both the original and my proposed redesign, it would have been more effective to display the percentage of likes out of the total number of posts made by each candidate / political party (although this would depend on what data is available). 
-
-
-![Screenshot](Picture1.png)

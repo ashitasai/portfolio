@@ -27,7 +27,7 @@ However, in both the original and my proposed redesign, it would have been more 
 ## Week 2
 ### Critique by redesign - Data visualization from Google Sheets
 
-**Note:** The dataset used to create the visualization in the original articles showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
+**Note:** The dataset used to create the visualization in the original article showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
 
 ![Screenshot](c2.png)
 

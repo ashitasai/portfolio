@@ -32,7 +32,7 @@ The original article was posted on The Economist. Apart from catching up on the 
 
 **Note:** The dataset used to create the visualization in the original article showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
 
-![Screenshot](c2.png = 450x450)
+<img src="c2.png" data-canonical-src="c2.png" width="450" height="450" />
 
 **Sources:**
 - "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)

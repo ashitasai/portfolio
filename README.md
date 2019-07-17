@@ -51,7 +51,7 @@ As a result of these changes, I believe my proposed redesign:
 - simple yet aesthetically pleasing
 
 ### OIG Report Data Visualizations - Data visualization from Infogram
-#### Perspective 1: Data Journalist
+#### Perspective 1: Data journalist
 
 **Audience:**
 
@@ -72,3 +72,23 @@ To make the second point, I chose a simple bar chart to show the increase in num
 <iframe src="https://e.infogram.com/b1f3a37b-8308-428c-b880-f77b54a38765?src=embed" title="Copy: General Audience" width="450" height="450" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 434px"><a href="https://infogram.com/b1f3a37b-8308-428c-b880-f77b54a38765" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: General Audience</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 In both cases, I chose simple data visualization types that would be familiar to my audience to help them quickly understand the information without spending much time. Additionally, I used descriptive yet simple titles for the charts to provide enough context and minimize text for explanations. In terms of color, I chose a medium-to-dark shade of blue for the first chart rather than bright colors given the nature of the topic. For the second chart, I chose a lighter shade of green as green is usually associated with upwards trends in data. 
+
+#### Perspective 2: Data analyst working for Department of Human Services
+
+**Audience:**
+
+In this case, my audience consists of high-level policy analysts at DHS and other government agencies. This audience consists of experts who will understand technical terms and would like details.
+
+**Purpose:**
+
+In this case, I chose to recreate the table presented on page 2 of the original OIG report. The table is the first piece of data presented in the report and aims to convey two points: 1) There has been a significant increase in the number of apprehensions at the southwest border, and 2) This is mainly due to a rise in the number of family units that are illegally crossing the border. However, the gravity of the situation is lost as the table consists of many numbers, which the readers may not remember and potentially even skim through. Since many people are visual thinkers, I felt that representing the information in the table in the form of data visualizations would capture the reader's attention and effectively convey the importance and urgency of the crisis. 
+
+In this case, I chose to design two simple visualizations to replace the table in the report.
+
+<iframe src="https://e.infogram.com/1b4bafde-0756-4559-b2ce-1f51eb0e5d78?src=embed" title="Sketch 3" width="533" height="790" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 473px"><a href="https://infogram.com/1b4bafde-0756-4559-b2ce-1f51eb0e5d78" style="color:#989898!important;text-decoration:none!important;" target="_blank">Sketch 3</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+As shown above, I chose a bubble chart to provide an aerial view of the crisis on southwest border - an increase in the total number of apprehensions between FY 2018 and FY 2019. For my second visualization, I chose a stacked bar chart to illustrate the breakdown of apprehensions by sector over the same time period. 
+
+Both the data visualization types are familiar to my audience. I also used descriptive titles to capture and communicate the main point of each data visualization. In terms of color, I chose a gradient scheme for both visualizations with the darker shade indicating an increase in the number of apprehensions. 
+
+**Source:** "OIG: DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley" U.S. Department of Homeland Security, July 2, 2019. [https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)

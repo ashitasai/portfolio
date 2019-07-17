@@ -27,6 +27,9 @@ However, in both the original and my proposed redesign, it would have been more 
 ## Week 2
 ### Critique by redesign - Data visualization from Google Sheets
 
+**Context:**
+The original article was posted on The Economist. Apart from catching up on the major headlines each day, the audience of this news outlet enjoys reading about topics that provide them with additional general knowledge. In this case, the article’s goal is to assess if there is any truth to the phrase “Midwestern nice”. The authors show one measure of “niceness” through a map illustrating the volunteer rates across the U.S. 
+
 **Note:** The dataset used to create the visualization in the original article showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
 
 ![Screenshot](c2.png)

@@ -11,7 +11,8 @@ Through this course, I hope to learn different data visualization techniques and
 
 ## Week 1
 ### Critique by redesign - Data visualization from Datawrapper
-<iframe title="UK Political Trends: A Social Media Snapshot" aria-label="Bar Chart" id="datawrapper-chart-n8BkP" src="//datawrapper.dwcdn.net/n8BkP/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="339"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+<p align="center">
+  <iframe title="UK Political Trends: A Social Media Snapshot" aria-label="Bar Chart" id="datawrapper-chart-n8BkP" src="//datawrapper.dwcdn.net/n8BkP/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="339"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 **Source:** “The Metamorphosis.” The Economist, August 13, 2016. [https://www.economist.com/britain/2016/08/13/the-metamorphosis](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
 
@@ -33,7 +34,7 @@ The original article was posted on The Economist. Apart from catching up on the 
 **Note:** The dataset used to create the visualization in the original article showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
 
 <p align="center">
-  <img src="c2.png" data-canonical-src="c2.png" width="450" height="450" />
+  <img src="c2.png" data-canonical-src="c2.png" width="500" height="500" />
 
 **Sources:**
 - "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)

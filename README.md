@@ -33,7 +33,7 @@ The original article was posted on The Economist. Apart from catching up on the 
 **Note:** The dataset used to create the visualization in the original article showed 2017 volunteer rates. However, this data was no longer available. I used the 2018 volunteer rates and they followed the same trend as the previous year. 
 
 <p align="center">
- <img src="c2.png" data-canonical-src="c2.png" width="500" height="500" />
+ <img src="c2.png" data-canonical-src="c2.png" width="540" height="500" />
 </p>
 
 **Sources:**

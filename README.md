@@ -93,3 +93,6 @@ As shown above, I chose a bubble chart to provide an aerial view of the crisis o
 Both the data visualization types are familiar to my audience. I also used descriptive titles to capture and communicate the main point of each data visualization. In terms of color, I chose a gradient scheme for both visualizations with the darker shade indicating an increase in the number of apprehensions. 
 
 **Source:** "OIG: DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley" U.S. Department of Homeland Security, July 2, 2019. [https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
+
+## Week 3
+Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md)

@@ -95,4 +95,5 @@ Both the data visualization types are familiar to my audience. I also used descr
 **Source:** "OIG: DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley" U.S. Department of Homeland Security, July 2, 2019. [https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
 
 ## Week 3
-Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md)
+Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md)
+

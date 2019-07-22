@@ -25,7 +25,7 @@ During week 2, I was tasked with reviewing the [Management Alert](https://www.oi
 I also delivered a critique of a separate data visualization about the truth behind the phrase “Midwestern nice”. In the original article published on The Economist, the authors assess volunteer rates across the United States to evaluate if there is any basis for this phrase. Here’s the original visualization.
 
 <p align="center">
- <img src="wk2.png" data-canonical-src="c2.png" width="540" height="500" />
+ <img src="wk2.png" data-canonical-src="c2.png" width="600" height="500" />
 </p>
 **Source:** "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)
 

@@ -17,7 +17,7 @@ During week 1, I delivered a critique of a data visualization found in an articl
 </p>
 **Source:** “The Metamorphosis.” The Economist, August 13, 2016. [https://www.economist.com/britain/2016/08/13/the-metamorphosis](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
 
-Please follow [this link](/Week1.md) to read more about my critique and check out my redesign.
+**Please follow [this link](/Week1.md) to read more about my critique and check out my redesign.**
 
 ## Week 2
 During week 2, I was tasked with reviewing the [Management Alert](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf) report published by the Office of the Inspector General regarding the ongoing crisis at the Immigration and Customs Enforcement facilities at the southwest border. Following this, I designed data visualizations to convey one key aspect of the report to two different audiences: 1) general newsreaders, and 2) policymakers and high-level government officials. 
@@ -29,7 +29,7 @@ I also delivered a critique of a separate data visualization about the truth beh
 </p>
 **Source:** "Is there any truth to the idea of “Midwestern nice”?" The Economist, December 27, 2018. [https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice](https://www.economist.com/graphic-detail/2018/12/27/is-there-any-truth-to-the-idea-of-midwestern-nice)
 
-Please follow [this link](/Week2.md) to read more about my critiques and redesigns for the week. 
+**Please follow [this link](/Week2.md) to read more about my critiques and redesigns for the week.**
 
 ## Week 3
 Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md)

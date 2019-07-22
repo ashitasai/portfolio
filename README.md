@@ -15,6 +15,7 @@ During week 1, I delivered a critique of a data visualization found in an articl
 <p align="center">
  <img src="UKpolitics.png" data-canonical-src="c2.png" width="540" height="500" />
 </p>
+**Source:** “The Metamorphosis.” The Economist, August 13, 2016. [https://www.economist.com/britain/2016/08/13/the-metamorphosis](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
 
 Please follow [this link](/Week1.md) to read more about my critique and check out my redesign.
 

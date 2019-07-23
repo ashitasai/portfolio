@@ -25,6 +25,8 @@ In this case, I created a beeswarm plot using the whole dataset showing the gene
 
 **Source:** OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 21 July 2019). [https://data.oecd.org/gga/general-government-debt.htm](https://data.oecd.org/gga/general-government-debt.htm)
 
+**Note:** The final year is 2018 - It got cut off the chart due to some limitations in the RAWGraphs tool.
+
 ### Few thoughts
 For my third data visualization, I chose to use an area graph to share a focused story than the beeswarm plot. I believe the area graph  in combination with the color choices effectively conveys two key points: 
 - Bottom 15 countries with the highest debts

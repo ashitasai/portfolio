@@ -20,5 +20,8 @@
 ### Section 2: Initial Sketches
 #### Visualization 1: Facts & Figures
 
+<p align="center">
+ <img src="IS1.png" data-canonical-src="c2.png" width="898" height="405" />
+</p>
 
 #### Visualization 2: 

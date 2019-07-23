@@ -32,5 +32,5 @@ I also delivered a critique of a separate data visualization about the truth beh
 **Please follow [this link](/Week2.md) to read more about my critiques and redesigns for the week.**
 
 ## Week 3
-Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md)
+
 

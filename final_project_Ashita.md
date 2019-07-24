@@ -5,16 +5,19 @@
 **Summary:** Cardiovascular disease is amongst the leading causes of death in the United States. However, risk of developing the disease can be reduced by maintaining a healthy diet.
 
 **Project Structure:**  
-**1)** Introduce alarming statistic: Heart disease kills 1 person every 40 seconds.  
+**1)** Introduce alarming statistic: Heart disease kills 1 person every 40 seconds ("Highest level of concern")
 - Discuss heart disease prevalence by state  
 - Emphasize the fact that heart disease has remained the leading cause of death for over a decade
 
-**2)** Discuss measures that can be taken to reduce risk of developing heart disease. 
-- Briefly talk about article on NPR - Research shows that cutting 300 calories from your diet reduces your risk by x amount
+**2)** Discuss measures that can be taken to reduce risk of developing heart disease ("Medium-to-low level of concern")
+- Briefly talk about article on NPR - Research shows that cutting 300 calories from your diet reduces your risk factors such as cholesterol, weight, etc. 
+
+**Source:** "Cutting Just 300 Calories Per Day May Keep Your Heart Healthy" National Public Radio, July 11, 2019. [https://www.npr.org/sections/thesalt/2019/07/11/740895106/cutting-just-300-calories-per-day-may-keep-your-heart-healthy](https://www.npr.org/sections/thesalt/2019/07/11/740895106/cutting-just-300-calories-per-day-may-keep-your-heart-healthy)
+
 - Show calorie consumption patterns in the United States
 - Show recommended federal guidelines for a healthy diet
 
-**3)** Call to action
+**3)** Call to action ("Low level of concern")
 - I am not telling you to cut 300 calories from your daily diet. All I am asking you to do is to be more aware of what you put in your body at your next meal and every meal thereafter. 
 
 **User Story:**

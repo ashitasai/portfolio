@@ -46,11 +46,11 @@
 
 **3)** Centers for Disease Control and Prevention - I found a report that summarized calorie consumption patterns by food group, gender and age. I will use this data to highlight the historic food consumption patterns in the United States relative to the recommended guidelines. 
 
-**Source:** "Table 56. Mean macronutrient intake among adults aged 20 and over, by sex and age: United States, selected years 1988-1994 through 2011-2014" Centers for Disease Control and Prevention, 2017, https://www.cdc.gov/nchs/data/hus/2017/056.pdf
+**Source:** "Table 56. Mean macronutrient intake among adults aged 20 and over, by sex and age: United States, selected years 1988-1994 through 2011-2014" Centers for Disease Control and Prevention, 2017, [https://www.cdc.gov/nchs/data/hus/2017/056.pdf](https://www.cdc.gov/nchs/data/hus/2017/056.pdf)
 
 **4)** Office of Disease Prevention and Health Promotion - This source provided me with the recommended consumption guidelines for different food groups. I will use this data in combination with the data from the previous source to identify any red flags in food consumption patterns. This will help serve as strong evidence to convince my audience to be more aware of their eating patterns. 
 
-**Source:** "Dietary Guidelines 2015-2020" Office of Disease Prevention and Health Promotion, https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/
+**Source:** "Dietary Guidelines 2015-2020" Office of Disease Prevention and Health Promotion, [https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/](https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/)
 
 ### Section 4: Method and Medium
 I plan on using Shorthand to narrate my story. I will use the major points outlined in the project structure as the subsections or "chapters" in my story. I plan on mainly using data visualizations with minimal text to convey the story. Overall, my goal is to convince my audience to be more aware of what they put in their bodies at every meal with the hope that they will slowly shift towards eating healthier foods. 

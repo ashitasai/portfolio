@@ -17,6 +17,9 @@
 **3)** Call to action
 - I am not telling you to cut 300 calories from your daily diet. All I am asking you to do is to be more aware of what you put in your body at your next meal and every meal thereafter. 
 
+**User Story:**
+For example, the user could be someone who might be at risk for heart disease and is seeking help from a professional such as a nutritionist. The nutritionist could help explain the prevalence of heart disease and food consumption patterns in the United States. Following this, the nutritionist could outline the individual's current diet plan and identify the gaps based on the recommended guidelines visualization provided in my story. The facts presented in the story would help the individual understand and become more aware of their food consumption. Furthermore, it would help the nutritionist design a new diet plan for the patient to fill in the identified gaps. 
+
 ### Section 2: Initial Sketches
 #### Visualization 1: Facts & Figures
 <p align="center">
@@ -53,6 +56,6 @@
 **Source:** "Dietary Guidelines 2015-2020" Office of Disease Prevention and Health Promotion, [https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/](https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/)
 
 ### Section 4: Method and Medium
-I plan on using Shorthand to narrate my story. I will use the major points outlined in the project structure as the subsections or "chapters" in my story. I plan on mainly using data visualizations with minimal text to convey the story. Overall, my goal is to convince my audience to be more aware of what they put in their bodies at every meal with the hope that they will slowly shift towards eating healthier foods. 
+I plan on using Shorthand to narrate my story. I will use the major points outlined in the project structure as the subsections or "chapters" in my story. I plan on mainly using data visualizations with minimal text to convey the story. In terms of webiste design, I am interested in using the layout that allows for scrolling through text on the webpage while the images update automatically. I believe this will allow for a smooth narration of my story. Overall, my goal is to convince my audience to be more aware of what they put in their bodies at every meal with the hope that they will slowly shift towards eating healthier foods. 
 
-For my final presentation, I will use snapshots of my Shorthand page to convey the key points in under the 60 second time limit. I do not plan on using PowerPoint slides to supplement my presentation.
+I will be using online tools to generate the visualizations for my story. These include Datawrapper, Infogram, Powerpoint, and GoogleSheets. For my final presentation, I will use snapshots of my Shorthand page to convey the key points within the 60 second time limit. I do not plan on using PowerPoint slides to supplement my presentation.

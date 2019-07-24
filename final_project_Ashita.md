@@ -2,7 +2,7 @@
 ## Part I
 ### Section 1: Outline
 **Potential Title:** Healthy diet, Healthier heart  
-**Summary:** Cardiovascular disease is one of the top 5 leading causes of death in the United States. However, risk of developing the disease can be reduced by maintaining a healthy diet. 
+**Summary:** Cardiovascular disease is amongst the leading causes of death in the United States. However, risk of developing the disease can be reduced by maintaining a healthy diet.
 
 **Project Structure:**  
 **1)** Introduce alarming statistic: Heart disease kills 1 person every 40 seconds.  
@@ -15,7 +15,7 @@
 - Show recommended federal guidelines for a healthy diet
 
 **3)** Call to action
-- Now don't get me wrong, I am not telling you to cut 300 calories from your daily diet. All I am asking you to do is to be more aware of what you put in your body at your next meal and every meal thereafter. 
+- I am not telling you to cut 300 calories from your daily diet. All I am asking you to do is to be more aware of what you put in your body at your next meal and every meal thereafter. 
 
 ### Section 2: Initial Sketches
 #### Visualization 1: Facts & Figures
@@ -48,6 +48,6 @@
 •	A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 ### Section 4: Method and Medium
-I plan on using Shorthand to narrate my story. I will use the major points outlined in the project structure as the subsections or "chapters" in my story. I plan on mainly using data visualizations with minimal text to convey the story. Overall, my goal is to convince my audience to be more aware of what they put in their bodies at every meal with the hope that they will slowly shift towards eating more healthy foods. 
+I plan on using Shorthand to narrate my story. I will use the major points outlined in the project structure as the subsections or "chapters" in my story. I plan on mainly using data visualizations with minimal text to convey the story. Overall, my goal is to convince my audience to be more aware of what they put in their bodies at every meal with the hope that they will slowly shift towards eating healthier foods. 
 
-For my final presentation, I will use snapshots of my Shorthand page to convey the key points in under the 60 second requirement. I do not plan on using PowerPoint slides to supplement my presentation.
+For my final presentation, I will use snapshots of my Shorthand page to convey the key points in under the 60 second time limit. I do not plan on using PowerPoint slides to supplement my presentation.

@@ -19,5 +19,10 @@
 
 ### Section 2: Initial Sketches
 #### Visualization 1: Facts & Figures
+<p align="center">
+ <img src="FPSketchA.png" data-canonical-src="c2.png" width="800" height="339" />
+</p>
+
+**Source:** "Heart disease and stroke statistics 2017 At-a-Glance" American Heart Association, 2017. [https://healthmetrics.heart.org/wp-content/uploads/2017/06/Heart-Disease-and-Stroke-Statistics-2017-ucm_491265.pdf](https://healthmetrics.heart.org/wp-content/uploads/2017/06/Heart-Disease-and-Stroke-Statistics-2017-ucm_491265.pdf)
 
 #### Visualization 2: 

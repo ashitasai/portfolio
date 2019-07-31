@@ -55,4 +55,4 @@ I additionally used imagery to quantify the "300 calories" and visually convey g
 ## Section 3 - User Research
 
 ### Target Audience
-- I hope to 
+- I hope to reach anyone who is looking for tips and resources to help them reduce their risk of developing cardiovascular disease. This could be inviduals who are health conscious in general or those that have been cautioned by their doctors to closely watch their health due to existing medical signs that signal a risk of developing heart disease. 

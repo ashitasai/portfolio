@@ -30,7 +30,7 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 
 ### Wireframes
 
-For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
+#### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
 
 I have 3 key visualizations along with several images of different foods to convey my story. 
 1) Statistic about cardiovascular disease

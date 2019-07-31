@@ -23,6 +23,5 @@ Once I broke it down, I realized that some of the data and visualizations I crea
 
 My updated data for the final project can be accessed here. 
 
-**Sources:**
-
-
+**Sources:** 
+"What the World Eats" National Geographic, [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)

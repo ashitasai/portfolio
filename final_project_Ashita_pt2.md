@@ -2,12 +2,14 @@
 
 ## Section 1 - Wireframes & Storyboards
 
-For this section of the project, I chose to begin building my story on Shorthand itself. Access my story at _____.
+For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
 
 Last week, I created a few visualizations: 
 1) Statistic about cardiovascular disease
 2) A heat map showing prevalence of heart disease across the United States over time
 3) A range plot to show where we our current diets stand relative to the recommended guidelines
+
+**Note:** Access last week's updates [here](/final_project_Ashita.md). 
 
 However, over the past week, I further contemplated the story I want to tell and thought about what I would want to learn if I was the audience and someone presented this information about cardiovascular disease to me. It came down to 3 key points: 
 

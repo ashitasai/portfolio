@@ -33,3 +33,6 @@ I also delivered a critique of a separate data visualization about the truth beh
 
 ## Week 3
 Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md). 
+
+## Week 4
+Please check out final project progress at [Final Project](/final_project_Ashita.md) and access my Shorthand page here.

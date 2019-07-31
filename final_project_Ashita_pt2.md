@@ -1,8 +1,6 @@
 # Final Project - Part II
 
-## Section 1 - Wireframes & Storyboards
-
-### Changes to final project
+## Section 1 - Changes to final project
 
 Last week, I created a few visualizations: 
 1) Statistic about cardiovascular disease
@@ -28,9 +26,10 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 **Sources:** 
 "What the World Eats" National Geographic, [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)
 
-### Wireframes
-
+## Section 2 - Wireframes & Storyboards
 #### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
+
+### Wireframes
 
 I have 3 key visualizations along with several images of different foods to convey my story. 
 1) Statistic about cardiovascular disease

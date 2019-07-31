@@ -45,5 +45,10 @@ I additionally used imagery to quantify the "300 calories" and visually convey g
 
 2) I take a step back to provide a little background as to what actually led us to the current state by looking into overall calorie consumption and breakdown by food group. I believe this gets the audience to start thinking about their own diets. 
   
-3) I added some text to help recap the story so far and also use this as a transition to direct focus towards what we need to change to be more aligned with the recommended federal guidelines for a balanced diet. 
-    - sample
+3) I added some text to help recap the story so far and also use this as a transition to direct focus towards what we need to change to be more aligned with the recommended USDA guidelines for a balanced diet. 
+    - I introduced the article by NPR which quoted a study that showed that you can reduce your risk of developing cardiovascular disease by cutting 300 calories from your diet as it helps reduce the associated risk factors such as cholesterol, weight, etc. 
+    - I used common foods to help quantify "300 calories".
+    
+4) I added some text to transition to the the recommended USDA guidelines and provide tips for the audience with some imagery to help visuallly convey the message.
+
+5) I conclude with my call to action - "Stop. Think. Eat." and also provide a link that leads to publicly available resources to help my audience be more aware of their diets and choose the right foods. 

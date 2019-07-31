@@ -27,7 +27,7 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 "What the World Eats" National Geographic, [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)
 
 ## Section 2 - Wireframes & Storyboards
-#### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
+#### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at here.
 
 ### Wireframes
 
@@ -51,3 +51,8 @@ I additionally used imagery to quantify the "300 calories" and visually convey g
 4) I added some text to transition to the the recommended USDA guidelines and provide tips for the audience with some imagery to help visually convey the message.
 
 5) I conclude with my call to action - "Stop. Think. Eat." and also provide a link that leads to publicly available resources to help my audience become more aware of their diets and choose the right foods. 
+
+## Section 3 - User Research
+
+### Target Audience
+- I hope to 

@@ -2,7 +2,7 @@
 
 ## Section 1 - Wireframes & Storyboards
 
-For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
+### Changes to final project
 
 Last week, I created a few visualizations: 
 1) Statistic about cardiovascular disease
@@ -27,3 +27,18 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 
 **Sources:** 
 "What the World Eats" National Geographic, [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)
+
+### Wireframes
+
+For this section of the project, I chose to begin building my story on Shorthand directly. Access my story at _____.
+
+I have 3 key visualizations along with several images of different foods to convey my story. 
+1) Statistic about cardiovascular disease
+2) Bar chart showing trend in total daily calorie consumption in the United States over the past 5 decades
+3) Line graph showing the daily calorie breakdown by food group over the same time period
+
+I additionally used imagery to quantify the "300 calories" and visually convey good versus bad foods towards the end of my story (See below for more details).
+
+### Storyboard
+
+My story starts off by grabbing the attention of the audience through a bright and alarming statistic showing the prevalence of cardiovascular disease. Then I take a step back to provide a little background as to what actually led us to the current state by looking into overall calorie consumption and breakdown by food group. 

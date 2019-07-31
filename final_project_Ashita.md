@@ -1,5 +1,4 @@
-# Final Project
-## Part I
+# Final Project - Part I
 ### Section 1: Outline
 **Potential Title:** Healthy diet, Healthier heart  
 **Summary:** Cardiovascular disease is amongst the leading causes of death in the United States. However, risk of developing the disease can be reduced by maintaining a healthy diet.

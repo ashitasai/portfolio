@@ -41,4 +41,9 @@ I additionally used imagery to quantify the "300 calories" and visually convey g
 
 ### Storyboard
 
-My story starts off by grabbing the attention of the audience through a bright and alarming statistic showing the prevalence of cardiovascular disease. Then I take a step back to provide a little background as to what actually led us to the current state by looking into overall calorie consumption and breakdown by food group. 
+1) My story starts off by grabbing the attention of the audience through a bright and alarming statistic showing the prevalence of cardiovascular disease.
+
+2) I take a step back to provide a little background as to what actually led us to the current state by looking into overall calorie consumption and breakdown by food group. I believe this gets the audience to start thinking about their own diets. 
+  
+3) I added some text to help recap the story so far and also use this as a transition to direct focus towards what we need to change to be more aligned with the recommended federal guidelines for a balanced diet. 
+    - sample

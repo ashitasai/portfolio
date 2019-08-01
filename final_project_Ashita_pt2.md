@@ -27,7 +27,7 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 "What the World Eats" National Geographic, [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)
 
 ## Section 2 - Wireframes & Storyboards
-#### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story here.
+#### For this section of the project, I chose to begin building my story on Shorthand directly. Access my story [here](https://preview.shorthand.com/uC6eBRpQWEdTaCO0).
 
 ### Wireframes
 

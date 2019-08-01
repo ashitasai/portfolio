@@ -54,7 +54,7 @@ I additionally used imagery to quantify the "300 calories" and visually convey g
 
 ## Section 3 - User Research
 
-### Target Audience
+### Target Audience Persona
 - I hope to reach anyone who is looking for tips and resources to help them reduce their risk of developing cardiovascular disease. This could be inviduals who are health conscious in general or those that have been cautioned by their doctors to closely watch their health due to existing medical signs that signal a risk of developing heart disease. While more elderly people might be interested in my story, I also hope to reach out to the younger population to help raise awareness and foster a healthier diet early on. 
 
 ### Interviewees
@@ -74,13 +74,15 @@ I summarized the findings from all my interviews by breaking them down into the 
 - The link to the external resources page is a great way to avoid information overload on the site, instead leaving it up to the audience to decide if they want to learn more
 
 #### Things to change: 
+- Change the title of the initial graphic that shows the cardiovascular disease prevalence statistic *(implemented)*
 - Axis titles need to be more descriptive
-- Add tabs at the top of the page so you can easily navigate to different sections on the page 
+- Add tabs at the top of the page so you can easily navigate to different sections on the page *(implemented)*
 - Consider adding a second axis to the line chart that shows the percent of total calorie consumption for each food category - helps show the change in proportion of intake over time
 - The color of the "sugar and fat" line does not make sense - consider using red or other colors that help raise a flag
-- Consider putting the two graphs side-by-side so I can immediately see what is contributing to the rise in total daily calorie consumption
+- Consider putting the two graphs side-by-side so I can immediately see what is contributing to the rise in total daily calorie consumption *(implemented)*
 - Consider adding a graph with sugar/fat calories on one axis and serving size on the other in the "tips" section
 - Add the labels directly to the line chart and remove the legend - then you can also you red as the color for the "sugar and fat" trend
+- Add citations for all images
 
 ## Section 4 - Mood Board
 - Most of my insipiration came from different images that represented the 3 topics I wanted to cover - cardiovascular disease facts, good foods, and bad foods. 
@@ -88,5 +90,3 @@ I summarized the findings from all my interviews by breaking them down into the 
 <p align="center">
  <img src="moodboard.png" width="900" height="515" />
 </p>
-
-

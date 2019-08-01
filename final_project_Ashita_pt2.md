@@ -72,10 +72,21 @@ I summarized the findings from all my interviews by breaking them down into the 
 - There is enough information provided and in layman's terms
 - The page looks aesthetically pleasing and modern
 - The link to the external resources page is a great way to avoid information overload on the site, instead leaving it up to the audience to decide if they want to learn more
-- Consider putting the two graphs side-by-side so I can immediately see what is contributing to the rise in total daily calorie consumption
 
 #### Things to change: 
 - Axis titles need to be more descriptive
 - Add tabs at the top of the page so you can easily navigate to different sections on the page 
 - Consider adding a second axis to the line chart that shows the percent of total calorie consumption for each food category - helps show the change in proportion of intake over time
 - The color of the "sugar and fat" line does not make sense - consider using red or other colors that help raise a flag
+- Consider putting the two graphs side-by-side so I can immediately see what is contributing to the rise in total daily calorie consumption
+- Consider adding a graph with sugar/fat calories on one axis and serving size on the other in the "tips" section
+- Add the labels directly to the line chart and remove the legend - then you can also you red as the color for the "sugar and fat" trend
+
+## Section 4 - Mood Board
+- Most of my insipiration came from different images that represented the 3 topics I wanted to cover - cardiovascular disease facts, good foods, and bad foods. 
+
+<p align="center">
+ <img src="moodboard.png" width="900" height="515" />
+</p>
+
+

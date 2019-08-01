@@ -32,7 +32,7 @@ In this case, I created a beeswarm plot using the whole dataset showing the gene
 **Note:** The final year is 2018 - It got cut off the chart due to some limitations in the RAWGraphs tool.
 
 ### Few thoughts
-For my third data visualization, I chose to use an area graph to share a focused story than the beeswarm plot. I believe the area graph  in combination with the color choices effectively conveys two key points: 
+For my third data visualization, I chose to use an area graph to share a more focused story than the beeswarm plot. I believe the area graph  in combination with the color choices effectively conveys two key points: 
 - Bottom 15 countries with the highest debts
 - The changes in general government debt over time by country
 
@@ -40,7 +40,7 @@ I chose a gradient color scheme with the color red to show the bottom 15 countri
 
 ### Compare and Contrast
 
-The bar chart provides the reader with the exact values for debt as a percentage of GDP. However, unlike the other two visluations, it fails to provide the trends over time, which is usually the norm when presenting information about debt or other similar measures describing the financial status a country. For instance, a high level of debt in the bar chart could be a positive indicator if that particular country was doing even worse in the past, or it could be a negative indicator foreshadowing an upcoming debt crisis. 
+The bar chart provides the reader with the exact values for debt as a percentage of GDP. However, unlike the other two visualizations, it fails to provide the trends over time, which is usually the norm when presenting information about debt or other similar measures describing the financial status a country. For instance, a high level of debt in the bar chart could be a positive indicator if that particular country was doing even worse in the past, or it could be a negative indicator foreshadowing an upcoming debt crisis. 
 
 Unlike the bar chart, the beeswarm plot allows for visualizing a much larger quantity of data over time. It shows the debt as a percentage of GDP over time for each country, thus telling a story about whether the country is recovering from or entering a debt crisis. However, since each datapoint is represented by a circle in the beeswarm plot, it makes it seems like an overload of information. As a reader, I do not know the story that the visualization is trying to convey. As a result, I chose the area graph for my third visualization to overcome the issues encountered in the beeswarm plot. The area graph represents the data for each country as a continuous smooth horizontal bar with "hills" and "valleys" indicating changes in debt over time. However, the downside of both the beeswarm and area graphs relative to the bar chart is that they do not show the actual underlying numbers and instead only allow for a visual comparison based on the width or thickness of the shapes. If this data was being presented to a lay audience, this visual comparison would be sufficient, but if it was intended for economists or other professionals, a more detailed analysis would be required. 
 

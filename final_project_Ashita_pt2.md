@@ -2,9 +2,12 @@
 
 ## Section 1 - Changes to final project
 
-Last week, I created a few visualizations: 
+Last week, I created a few visualizations:
+
 1) Statistic about cardiovascular disease prevalence
+
 2) A heat map showing prevalence of heart disease across the United States over time
+
 3) A range plot to show where our current diets stand relative to the recommendeded guidelines
 
 **Note:** Access last week's updates [here](/final_project_Ashita.md). 

@@ -33,6 +33,7 @@ My updated data for the final project can be accessed [here](/FP_Data_Updated).
 ### Wireframes
 
 I have 3 key visualizations along with several images of different foods to convey my story.  
+
 **1)** Statistic about cardiovascular disease  
 **2)** Bar chart showing trend in total daily calorie consumption in the United States over the past 5 decades  
 **3)** Line graph showing the daily calorie breakdown by food group over the same time period

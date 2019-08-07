@@ -31,7 +31,10 @@ My intended audience for my final data story is composed of anyone who is lookin
 
 Definining my audience helped me make better design choices. For instance, I chose to quantify "300 calories" by using common foods that my audience would be familiar with. I also chose to use pictures with minimal text to convey the message in a simple way. I constructing my data visualizations, I chose familiar chart types such as bar and line graphs as they are very easy to interpret. 
 
-Additionally, the user research I conducted in Part II helped me identify the problem points in my story design and visualizations. Since many of the comments I received pertained to technical changes, I chose to reach out again to the same indivudals to identify the underlying issues. I found out that 
+Additionally, the user research I conducted in Part II helped me identify the problem points in my story design and visualizations. Since many of the comments I received pertained to technical changes, I chose to reach out again to the same indivudals to identify the underlying issues. I found out that
+
+## Sources
+Please find all my sources and citations [here](https://ashitasai.github.io/portfolio/final_project_sources.html).
 
 
 

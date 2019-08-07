@@ -43,6 +43,8 @@ Additionally, the user research I conducted in Part II helped me identify the pr
 
 5) In the "What should you do?" section, I chose to show pictures of foods rather than putting names on a graph. I felt that it would convey the information more effectively when people can actually see serving sizes and the corresponding sugar or saturated fat content. The user who suggested the graph idea also agreed that the pictures are effective in conveying the story I want to tell. 
 
+One of the main things I learned in part III is to close the story loop. I started off by talking about cardiovascular disease at the beginning of my story, but quickly transitioned to calories and diets. As approached the end of my story, I was not satisfied as I felt something was missing. I spoke to a few individuals and they mentioned that I need to close the loop and tie my story back to cardiovascular disease. I did this by restating the title of my presentation at the very end. I felt this summarized the purpose of my story well and was simple and catchy for my audience to remember. 
+
 ## Sources
 Please find all my sources and citations [here](https://ashitasai.github.io/portfolio/final_project_sources.html).
 

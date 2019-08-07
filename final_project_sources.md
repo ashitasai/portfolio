@@ -10,3 +10,5 @@
 8) "Kellogg's Froot Loops cereal smart label" Kellogg's, July 28, 2019. http://smartlabel.kelloggs.com/Product/Index/00038000391200
 9) "FoodData Central - Avocados, raw, all commercial varieties" U.S. Department of Agriculture, April 1, 2019. https://fdc.nal.usda.gov/fdc-app.html#/food-details/171705/nutrients
 10) "FoodData Central - Cheese, cheddar" U.S. Department of Agriculture, April 1, 2019. https://fdc.nal.usda.gov/fdc-app.html#/food-details/328637/nutrients
+11) "FoodData Central - Salmon" U.S. Department of Agriculture, April 1, 2019. https://fdc.nal.usda.gov/fdc-app.html#/food-details/512958/nutrients
+12) "FoodData Central - Beef" U.S. Department of Agriculture, April 1, 2019. https://fdc.nal.usda.gov/fdc-app.html#/food-details/448025/nutrients

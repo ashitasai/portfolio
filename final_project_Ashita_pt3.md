@@ -13,3 +13,20 @@ What I did:
 
 Please access Part I materials [here](https://ashitasai.github.io/portfolio/final_project_Ashita.html).
 
+## Part II
+As I continued doing additional research, I found new data sources that were more relevant to the story I wanted to tell. As a result, I chose to eliminate a few of the data sources I initially found in completing Part I. 
+
+What I did: 
+- Identified new data sources
+- Developed initial sketches of visualizations
+- Created a draft version of my Shorthand page
+- Conducted user research
+
+Please access Part II materials [here](https://ashitasai.github.io/portfolio/final_project_Ashita_pt2.html).
+
+
+
+
+
+
+

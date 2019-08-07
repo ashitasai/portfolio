@@ -31,7 +31,17 @@ My intended audience for my final data story is composed of anyone who is lookin
 
 Definining my audience helped me make better design choices. For instance, I chose to quantify "300 calories" by using common foods that my audience would be familiar with. I also chose to use pictures with minimal text to convey the message in a simple way. I constructing my data visualizations, I chose familiar chart types such as bar and line graphs as they are very easy to interpret. 
 
-Additionally, the user research I conducted in Part II helped me identify the problem points in my story design and visualizations. Since many of the comments I received pertained to technical changes, I chose to reach out again to the same indivudals to identify the underlying issues. I found out that
+Additionally, the user research I conducted in Part II helped me identify the problem points in my story design and visualizations. Since many of the comments I received pertained to technical changes, I reached out again to the same indivudals to identify the underlying issues. I have listed my findings below: 
+
+1) The inital title of the cardiovascular disease prevalence statistic graphic read "Death caused by cardiovascular disease". The user mentioned that while they initally understand the message of the graphic, it did not come to them automatically. Therefore, I changed tha title to "Cardiovascular disease causes death every...", which makes it direct and clear. 
+
+2) One of the users mentioned that the axis titles in my second graphic need to be more clear. They actually meant that I should show the complete units. Previously, I had "Total calorie consumption", but I changed it to "Total daily calorie consumption". 
+
+3) One of my users suggested that I add a second axis to the line chart to show the percent calorie consumption for each food category. However, I thought about this and decided not to make the change because adding a second y-axis will make a simple chart complex to understand and may create confusion. Furthermore, while the change in calorie values was significant, this was not reflected in the percent change and actually understated the significance of the rise. The user also mentioned that the original graph itself was simple to understand and only suggested adding the second-axis to provide an additional perspective. 
+
+4) I changed the color scheme of the line chart to show that something that is "red" and hence "bad" is increasing and something that is "green" and hence "good" does not show much change. I added the labels of each line directly to the chart to eliminate any confusion around typical color associations for different food groups versus the colors I chose to use. 
+
+5) In the "What should you do?" section, I chose to show pictures of foods rather than putting names on a graph. I felt that it would convey the information more effectively when people can actually see serving sizes and the corresponding sugar or saturated fat content. The user who suggested the graph idea also agreed that the pictures are effective in conveying the story I want to tell. 
 
 ## Sources
 Please find all my sources and citations [here](https://ashitasai.github.io/portfolio/final_project_sources.html).

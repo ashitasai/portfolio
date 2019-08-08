@@ -35,4 +35,7 @@ I also delivered a critique of a separate data visualization about the truth beh
 Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md). 
 
 ## Week 4
-Please check out final project progress [here](/final_project_Ashita_pt2.md). 
+Please check out my final project progress [here](/final_project_Ashita_pt2.md). 
+
+## Week 5
+Please check out my final project [here](/final_project_Ashita_pt3.md).

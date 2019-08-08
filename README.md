@@ -37,7 +37,7 @@ Heading into week 3, I started thinking about my final project for the course. I
 In addition to the final project, I was explored and learned how to use another open-source visualization tool called RAW Graphs. I was provided with a dataset about Debt as a percentage of GDP by country and explored different unique chart types to highlight different messages in the data. Please check out my visualizations [here](/dataviz2.md).
 
 ## Week 4
-Please check out my final project progress [here](/final_project_Ashita_pt2.md). 
+During week 4, I continued to develop my story arc for my final project. I continued to explore additional datasets apart from the ones I identified during week 3 to help support my story. I designed a draft version of my data story on Shorthand and also conducted user research to get feedback from my target audience about the story, visualizations, design, information, etc. Please check out my progress [here](/final_project_Ashita_pt2.md). 
 
 ## Week 5
 Please check out my final project [here](/final_project_Ashita_pt3.md).

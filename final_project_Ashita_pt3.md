@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Healthy Diet, Healthy Heart
 
 ### Please access my final data story [here](https://preview.shorthand.com/uC6eBRpQWEdTaCO0).
 

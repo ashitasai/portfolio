@@ -32,7 +32,9 @@ I also delivered a critique of a separate data visualization about the truth beh
 **Please follow [this link](/Week2.md) to read more about my critiques and redesigns for the week.**
 
 ## Week 3
-Please check out this week's visualizations at [Week 3 Visualizations](/dataviz2.md) and my final project progress at [Final Project](/final_project_Ashita.md). 
+Heading into week 3, I started thinking about my final project for the course. I started browsing online through many data repositories and read numerous articles to identify a topic that caught my attention and interest. While I was doing this, I came across an article about the prevalence of cardiovascular disease on National Public Radio (access [here](https://www.npr.org/sections/thesalt/2019/07/11/740895106/cutting-just-300-calories-per-day-may-keep-your-heart-healthy)). I delved deeper into this topic and you can read more about my progress [here](/final_project_Ashita.md).
+
+In addition to the final project, I was explored and learned how to use another open-source visualization tool called RAW Graphs. I was provided with a dataset about Debt as a percentage of GDP by country and explored different unique chart types to highlight different messages in the data. Please check out my visualizations [here](/dataviz2.md).
 
 ## Week 4
 Please check out my final project progress [here](/final_project_Ashita_pt2.md). 

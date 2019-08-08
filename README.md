@@ -40,4 +40,9 @@ In addition to the final project, I was explored and learned how to use another 
 During week 4, I continued to develop my story arc for my final project. I continued to explore additional datasets apart from the ones I identified during week 3 to help support my story. I designed a draft version of my data story on Shorthand and also conducted user research to get feedback from my target audience about the story, visualizations, design, information, etc. Please check out my progress [here](/final_project_Ashita_pt2.md). 
 
 ## Week 5
-Please check out my final project [here](/final_project_Ashita_pt3.md).
+During week 5, I implemented the feedback I received from my user research and finalized my data story on Shorthand. I was also tasked with telling my story in class in 60 seconds. Here's a script of my in-class presentation: 
+
+*"Did you know that cardiovascular disease causes death every 40 seconds. That means by the time I am done with this presentation, someone would have been affected by this condition. So how exactly did we end up here? Well, data since 1960 indicates a steady rise in calorie consumption. Not only that, but we have also been consuming more of the bad stuff such as sugars and fats and less of the good stuff such as fruits and vegetables. So what can we do now to reduce our risk? One study suggests cutting 300 calories from your diet. But what is "300 calories"? Well, it is either one McDonald's Cheeseburger or one Tall Caramel Frappucino from Starbucks. But it is important to be aware of what you eat more than how much you eat. So at your next meal, I urge you to stop, think, and eat the right foods because, remember, a healthy diet leads to a healthy heart."*
+
+**Please check out my final data story [here](https://preview.shorthand.com/uC6eBRpQWEdTaCO0).**
+**Please check out a compilation of the "behind-the-scenes" of my final project [here](/final_project_Ashita_pt3.md).**

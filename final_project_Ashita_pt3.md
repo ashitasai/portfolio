@@ -46,7 +46,7 @@ Additionally, the user research I conducted in Part II helped me identify the pr
 One of the main things I learned in part III is to close the story loop. I started off by talking about cardiovascular disease at the beginning of my story, but quickly transitioned to calories and diets. As I approached the end of my story, I was not satisfied as I felt something was missing. I spoke to a few individuals and they mentioned that I need to close the loop and tie my story back to cardiovascular disease. I did this by restating the title of my presentation at the very end. I felt this summarized the purpose of my story well and was simple and catchy for my audience to remember. 
 
 ## Sources
-Please find all my sources and citations [here](https://ashitasai.github.io/portfolio/final_project_sources.html).
+Please find all my sources and citations [here](https://ashitasai.github.io/portfolio/final_project_sources.html). I have also referenced them where necessary on my Shorthand site. 
 
 
 

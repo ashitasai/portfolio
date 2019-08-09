@@ -42,7 +42,7 @@ During week 4, I continued to develop my story arc for my final project. I conti
 ## Week 5
 During week 5, I implemented the feedback I received from my user research and finalized my data story on Shorthand. I was also tasked with telling my story in class in **60 seconds** supplemented with the visualizations from my final data story on Shorthand. 
 
-Here's a script of my in-class presentation: 
+Here's a the 60-second sneak peek of my story: 
 
 *"Did you know that cardiovascular disease causes death every 40 seconds. That means by the time I am done with this presentation, someone would have been affected by this condition. So how exactly did we end up here? Well, data since 1960 indicates a steady rise in calorie consumption. Not only that, but we have also been consuming more of the bad stuff such as sugars and fats and less of the good stuff such as fruits and vegetables. So what can we do now to reduce our risk? One study suggests cutting 300 calories from your diet. But what is "300 calories"? Well, it is either one McDonald's Cheeseburger or one Tall Caramel Frappucino from Starbucks. But it is important to be aware of what you eat more than how much you eat. So at your next meal, I urge you to stop, think, and eat the right foods because, remember, a healthy diet leads to a healthy heart."*
 

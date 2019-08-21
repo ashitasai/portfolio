@@ -9,6 +9,10 @@ Through this course, I hope to learn different data visualization techniques and
 
 # Portfolio
 
+## Final Project
+
+Please check out my final project **[here](https://preview.shorthand.com/uC6eBRpQWEdTaCO0)**. It is a data story about the high prevalence of cardiovascular disease in the United States and what we can do to reduce our risk of developing this condition. 
+
 ## Week 1
 During week 1, I delivered a critique of a data visualization found in an article on The Economist about the political situation in the United Kingdom. Here’s a sneak peek of the original visualization.
 
